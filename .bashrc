@@ -1,4 +1,4 @@
-up(){
+up() {
   local d=""
   limit=$1
   for ((i=1 ; i <= limit ; i++))
@@ -32,3 +32,8 @@ extract () {
        echo "'$1' is not a valid file!"
    fi
  }
+ 
+mkcdir () {
+    mkdir -p -- "$1" &&
+      cd -P -- "$1"
+}
