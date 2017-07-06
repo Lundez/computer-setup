@@ -9,3 +9,6 @@ Extract file independent of what kind of compression used.
 
 `mkcdir directory`
 Makes directory (mkdir) *directory* and then goes into it (cd)
+
+TODO update for lessfilter:
+Also chmod u+x ~/.lessfilter on lessfilter file.
