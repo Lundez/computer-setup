@@ -11,7 +11,8 @@ up() {
   fi
   cd $d
 }
-
+export LESS='-R'
+export LESSOPEN='|~/.lessfilter %s'
 extract () {
    if [ -f $1 ] ; then
        case $1 in
