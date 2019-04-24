@@ -12,3 +12,7 @@ Makes directory (mkdir) *directory* and then goes into it (cd)
 
 TODO update for lessfilter:
 Also chmod u+x ~/.lessfilter on lessfilter file.
+
+Extras to get:
+* https://github.com/tj/git-extras
+* https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
