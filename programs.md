@@ -1,3 +1,8 @@
+# General Programs
+| Program | Description |
+| --- | --- |
+| [starship.rs](https://starship.rs/) | The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
+
 # MacOS Related
 
 | Program | Description |
