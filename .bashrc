@@ -38,3 +38,8 @@ mkcdir () {
     mkdir -p -- "$1" &&
       cd -P -- "$1"
 }
+
+git-cleanup() {
+  git branch --merged | egrep -v "(^\*|master|dev)" | xargs git branch -d
+  git remote prune origin
+}
