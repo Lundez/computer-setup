@@ -15,3 +15,5 @@ Also chmod u+x ~/.lessfilter on lessfilter file.
 
 Extras to get:
 * https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+* https://github.com/chubin/cheat.sh
+
