@@ -9,6 +9,7 @@
 | --- | --- |
 | [mos](https://mos.caldis.me/) | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS |
 | [BlueSnooze](https://github.com/odlp/bluesnooze) | Sleeping Mac = Bluetooth off |
+| [iterm2](https://iterm2.com) | A better terminal |
 
 Set the keyboard modifier keys? Settings -> Keyboard -> Keyboard Shortcuts -> Modifier Keys
 
